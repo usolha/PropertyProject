@@ -13,6 +13,9 @@ public class MainProgram {
         Property p4 = new Property("Erzbergestraße 4", 10,20.57);
         System.out.println(p4.getAddress() + " - " + p4.getSize() + "m²");
 
+        Property p5 = new Property("Erzbergestraße 5", 10,20.57);
+        System.out.println(p5.getAddress() + " - " + p5.getSize() + "m²");
+
 
 
     }
